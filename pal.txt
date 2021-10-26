@@ -1,2 +1,4 @@
 Hi Raksh
 Helo bro
+or		:wq!
+
